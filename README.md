@@ -5,7 +5,7 @@
 
 1. Add a button in login.html
 ```html
-<button onclick="window.location='https://angelrekcah1987.github.io/KJY_QR_SCANNER';">QR Code</button>
+<button onclick="window.location='https://angelrekcah1987.github.io/KJY_QR_SCANNER/';">QR Code</button>
 ```
 2. Add the following script in MikroTik via Terminal.
 ```
